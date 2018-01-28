@@ -1,0 +1,3 @@
+env/
+*.pyc
+youtube_clone/videos/config.py
